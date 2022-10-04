@@ -1,8 +1,6 @@
-
-
 const Home = () => (
   <>
-    <h1 className="text-red-400 text-6xl">Maestro 👋</h1>
+    <h1 className="text-red-400 text-8xl">Maestro 👋</h1>
   </>
 );
 

@@ -19,7 +19,7 @@ module.exports = {
         industrylightitalic: ["INDUSTRYLIGHTITALIC", "sans-serif"],
         industrymedium: ["INDUSTRYMEDIUM", "sans-serif"],
         industrymediumitalic: ["INDUSTRYMEDIUMITALIC", "sans-serif"],
-      }
+      },
     },
   },
   plugins: [],

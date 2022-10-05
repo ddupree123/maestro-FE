@@ -1,3 +1,63 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face{
+    font-family: "INDUSTRYBLACK";
+    src: url("../public/fonts/Industry/Industry-Black.ttf")
+}
+
+@font-face{
+    font-family: "INDUSTRYBLACKITALIC";
+    src: url("../public/fonts/Industry/Industry-BlackItalic.ttf")
+}
+
+@font-face{
+    font-family: "INDUSTRYBOLD";
+    src: url("../public/fonts/Industry/Industry-Bold.ttf")
+}
+
+@font-face{
+    font-family: "INDUSTRYBOLDITALIC";
+    src: url("../public/fonts/Industry/Industry-BoldItalic.ttf")
+}
+
+@font-face{
+    font-family: "INDUSTRYBOOK";
+    src: url("../public/fonts/Industry/Industry-Book.ttf")
+}
+
+@font-face{
+    font-family: "INDUSTRYBOOKITALIC";
+    src: url("../public/fonts/Industry/Industry-BookItalic.ttf")
+}
+
+@font-face{
+    font-family: "INDUSTRYDEMI";
+    src: url("../public/fonts/Industry/Industry-Demi.ttf")
+}
+
+@font-face{
+    font-family: "INDUSTRYDEMIITALIC";
+    src: url("../public/fonts/Industry/Industry-DemiItalic.ttf")
+}
+
+@font-face{
+    font-family: "INDUSTRYLIGHT";
+    src: url("../public/fonts/Industry/Industry-Light.ttf")
+}
+
+@font-face{
+    font-family: "INDUSTRYLIGHTITALIC";
+    src: url("../public/fonts/Industry/Industry-LightItalic.ttf")
+}
+
+@font-face{
+    font-family: "INDUSTRYMEDIUM";
+    src: url("../public/fonts/Industry/Industry-Medium.ttf")
+}
+
+@font-face{
+    font-family: "INDUSTRYMEDIUMITALIC";
+    src: url("../public/fonts/Industry/Industry-MediumItalic.ttf")
+}

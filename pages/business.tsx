@@ -62,7 +62,7 @@ const Business = () => {
                     </div>
                 </div>
                 <div className="flex justify-center mt-[50px] pb-[30px]">
-                    <button className="w-[359px] h-[65px] bg-gray-300 font-industrybolditalic text-[25px]">CALL TO ACTION</button>
+                    <button className="w-[359px] h-[65px] bg-[#d9d9d9] text-[#020202] text-center font-industrybolditalic text-[25px]">CALL TO ACTION</button>
                 </div>
             </div>
             <Footer/>

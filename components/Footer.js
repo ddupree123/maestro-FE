@@ -29,18 +29,18 @@ const Footer = () => {
                 </div>
                 <div className="ml-auto pt-6">
                     <p className="text-white font-industrybold text-[20px] mb-[21px]">Support</p>
-                    <p className="text-gray-300 font-industrymedium text-[15px] mb-[21px] hover:text-white"><a href="">Contact us</a></p>
-                    <p className="text-gray-300 font-industrymedium text-[15px] mb-[21px] hover:text-white"><a href="">FAQs</a></p>
-                    <p className="text-gray-300 font-industrymedium text-[15px] mb-[21px] hover:text-white"><a href="">Become a member</a></p>
-                    <p className="text-gray-300 font-industrymedium text-[15px] hover:text-white"><a href="">Join as a business</a></p>
+                    <p className="text-[#c9c9c9] font-industrymedium text-[15px] mb-[21px] hover:text-white"><a href="">Contact us</a></p>
+                    <p className="text-[#c9c9c9] font-industrymedium text-[15px] mb-[21px] hover:text-white"><a href="">FAQs</a></p>
+                    <p className="text-[#c9c9c9] font-industrymedium text-[15px] mb-[21px] hover:text-white"><a href="">Become a member</a></p>
+                    <p className="text-[#c9c9c9] font-industrymedium text-[15px] hover:text-white"><a href="">Join as a business</a></p>
                 </div>
                 <div className="ml-[100px] pt-6">
                     <p className="text-white font-industrybold text-[20px] mb-[21px]">About</p>
-                    <p className="text-gray-300 font-industrymedium text-[15px] mb-[21px] hover:text-white"><a href="">About us</a></p>
-                    <p className="text-gray-300 font-industrymedium text-[15px] mb-[21px] hover:text-white"><a href="">Careers</a></p>
-                    <p className="text-gray-300 font-industrymedium text-[15px] mb-[21px] hover:text-white"><a href="">Investors</a></p>
-                    <p className="text-gray-300 font-industrymedium text-[15px] mb-[21px] hover:text-white"><a href="">News</a></p>
-                    <p className="text-gray-300 font-industrymedium text-[15px] hover:text-white"><a href="">Testimonials</a></p>
+                    <p className="text-[#c9c9c9] font-industrymedium text-[15px] mb-[21px] hover:text-white"><a href="">About us</a></p>
+                    <p className="text-[#c9c9c9] font-industrymedium text-[15px] mb-[21px] hover:text-white"><a href="">Careers</a></p>
+                    <p className="text-[#c9c9c9] font-industrymedium text-[15px] mb-[21px] hover:text-white"><a href="">Investors</a></p>
+                    <p className="text-[#c9c9c9] font-industrymedium text-[15px] mb-[21px] hover:text-white"><a href="">News</a></p>
+                    <p className="text-[#c9c9c9] font-industrymedium text-[15px] hover:text-white"><a href="">Testimonials</a></p>
                 </div>
             </nav>
             <div className="w-screen h-1 bg-white mt-[61px]"></div>

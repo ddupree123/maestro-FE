@@ -22,7 +22,7 @@ const Business = () => {
                 <div className="flex ml-[125px] mr-[125px]">
                     <div className="w-7/12">
                         <p className="text-center text-white text-[60px] font-industrylight">Why You need NIL Influencer marketing</p>
-                        <p className="text-left text-white text-[20px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate ut pharetra sit amet </p>
+                        <p className="text-left font-montserratlight text-white text-[20px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate ut pharetra sit amet </p>
                     </div>
                     <div className="ml-auto">
                         <Image
@@ -44,13 +44,13 @@ const Business = () => {
                     </div>
                     <div className="w-7/12 ml-auto mt-[100px]">
                         <p className="text-center text-white text-[60px] font-industrylight">Did you know</p>
-                        <p className="text-left text-white text-[20px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate ut pharetra sit amet </p>
+                        <p className="text-left font-montserratlight text-white text-[20px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate ut pharetra sit amet </p>
                     </div>
                 </div>
                 <div className="flex ml-[125px] mr-[125px]">
                     <div className="w-1/2 mt-[100px]">
-                        <p className="text-center text-white text-[60px] font-industrylight ml-[-50px]">How it works</p>
-                        <p className="text-left text-white text-[20px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate ut pharetra sit amet  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate ut pharetra sit amet <br/> -ajshdka <br/> -asdkja <br/> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+                        <p className="text-center text-white text-[60px] font-industrylight">How it works</p>
+                        <p className="text-left font-montserratlight text-white text-[20px]">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate ut pharetra sit amet  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate ut pharetra sit amet <br/> -ajshdka <br/> -asdkja <br/> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
                     </div>
                     <div className="ml-auto">
                         <Image

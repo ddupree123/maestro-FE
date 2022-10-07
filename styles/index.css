@@ -61,3 +61,93 @@
     font-family: "INDUSTRYMEDIUMITALIC";
     src: url("../public/fonts/Industry/Industry-MediumItalic.ttf")
 }
+
+@font-face{
+    font-family: "MONTSERRATBLACK";
+    src: url("../public/fonts/Montserrat/static/Montserrat-Black.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATBLACKITALIC";
+    src: url("../public/fonts/Montserrat/static/Montserrat-BlackItalic.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATBOLD";
+    src: url("../public/fonts/Montserrat/static/Montserrat-Bold.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATBOLDITALIC";
+    src: url("../public/fonts/Montserrat/static/Montserrat-BoldItalic.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATEXTRABOLD";
+    src: url("../public/fonts/Montserrat/static/Montserrat-ExtraBold.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATEXTRABOLDITALIC";
+    src: url("../public/fonts/Montserrat/static/Montserrat-ExtraBoldItalic.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATEXTRALIGHT";
+    src: url("../public/fonts/Montserrat/static/Montserrat-ExtraLight.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATEXTRALIGHTITALIC";
+    src: url("../public/fonts/Montserrat/static/Montserrat-ExtraLightItalic.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATITALIC";
+    src: url("../public/fonts/Montserrat/static/Montserrat-Italic.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATLIGHT";
+    src: url("../public/fonts/Montserrat/static/Montserrat-Light.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATLIGHTITALIC";
+    src: url("../public/fonts/Montserrat/static/Montserrat-LightItalic.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATMEDIUM";
+    src: url("../public/fonts/Montserrat/static/Montserrat-Medium.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATMEDIUMITALIC";
+    src: url("../public/fonts/Montserrat/static/Montserrat-MediumItalic.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATREGULAR";
+    src: url("../public/fonts/Montserrat/static/Montserrat-Regular.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATSEMIBOLD";
+    src: url("../public/fonts/Montserrat/static/Montserrat-SemiBold.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATSEMIBOLDITALIC";
+    src: url("../public/fonts/Montserrat/static/Montserrat-SemiBoldItalic.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATTHIN";
+    src: url("../public/fonts/Montserrat/static/Montserrat-Thin.ttf")
+}
+
+@font-face{
+    font-family: "MONTSERRATTHINITALIC";
+    src: url("../public/fonts/Montserrat/static/Montserrat-ThinItalic.ttf")
+}
